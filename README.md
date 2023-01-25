@@ -20,4 +20,4 @@ Como eu ainda não tenho esse conhecimento avançado, encontrei um código bem s
 
 Reproduzi o código, fui entendendo as etapas e adicionando notas sobre como o “for”, as listas e as funções atuam no algoritmo.
 
-Confira o notebook para ver explicação de cada estrutura no algoritimo.
+Confira o notebook para ver explicação de cada estrutura no algoritmo.
