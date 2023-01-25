@@ -22,5 +22,7 @@ Reproduzi o código, fui entendendo as etapas e adicionando notas sobre como o �
 
 Confira o notebook para ver explicação de cada estrutura no algoritmo.
 
+Deu um erro na parte de mutação e não apareceu a célula inteira da função criada para a mutação, então deixo aqui um print para ficar tudo certo.
+
 ![image](https://user-images.githubusercontent.com/113952506/214696549-dcb6e98d-f0af-4946-b8b0-8d5aa33d5640.png)
 
