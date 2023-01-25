@@ -20,9 +20,11 @@ Como eu ainda não tenho esse conhecimento avançado, encontrei um código bem s
 
 Reproduzi o código, fui entendendo as etapas e adicionando notas sobre como o “for”, as listas e as funções atuam no algoritmo.
 
-Confira o notebook para ver explicação de cada estrutura no algoritmo.
 
-Deu um erro na parte de mutação e não apareceu a célula inteira da função criada para a mutação, então deixo aqui um print para ficar tudo certo.
+
+- Confira o notebook para ver explicação de cada estrutura no algoritmo.
+
+OBS.: Ocorreu um erro na etapa da mutação e não apareceu a célula inteira da função criada, deixo aqui um print da parte que falta.
 
 ![image](https://user-images.githubusercontent.com/113952506/214696549-dcb6e98d-f0af-4946-b8b0-8d5aa33d5640.png)
 
