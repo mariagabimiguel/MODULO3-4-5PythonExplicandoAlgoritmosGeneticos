@@ -21,3 +21,6 @@ Como eu ainda não tenho esse conhecimento avançado, encontrei um código bem s
 Reproduzi o código, fui entendendo as etapas e adicionando notas sobre como o “for”, as listas e as funções atuam no algoritmo.
 
 Confira o notebook para ver explicação de cada estrutura no algoritmo.
+
+![image](https://user-images.githubusercontent.com/113952506/214696549-dcb6e98d-f0af-4946-b8b0-8d5aa33d5640.png)
+
